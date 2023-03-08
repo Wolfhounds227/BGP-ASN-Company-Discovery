@@ -1,5 +1,5 @@
 ﻿<# Non-interactive entry
-$ipAddresses = @("205.156.141.241", "167.245.92.242", "8.8.8.8")
+$ipAddresses = @("8.8.8.8")
 #>
 # Only works for RIPE Regional
 # Interactive entry
